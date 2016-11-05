@@ -2,6 +2,8 @@
 
 In this problem goal was to blend 3 images - animal, gradient and landscape into each other. As there are lots of ways to do this I tried a few combinations and am submitting them.
 
+I created a custom class CustomTexture to allow three textures at once. Going through the forum I later realized that it was not necessary to do so. But as this allowed greater flexibility I went with this approach.
+
 Images used :
 1. image1.bmp - Image of a lion (animal)
 2. image2.bmp - A color gradient
