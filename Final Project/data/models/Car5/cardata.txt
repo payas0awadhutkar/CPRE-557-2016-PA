@@ -1,0 +1,42 @@
+#body
+	pos=0,0,-.2
+	rot=1,0,0:90
+	scale=1.08,1.04,1.04
+#end
+
+#wheel1
+	pos=-.2,0,0
+	rot=0,0,0:90
+	scale=1,1,1
+#end
+
+#wheel2
+	pos=-.2,0,0
+	rot=0,0,0:90
+	scale=1,1,1
+#end
+
+#wheel3
+	pos=-.02,0,0
+	rot=0,0,0:90
+	scale=1,1,1
+#end
+
+#wheel4
+	pos=-.02,0,0
+	rot=0,0,0:90
+	scale=1,1,1
+#end
+
+#info
+	name=Subaru Turbo
+	topspeed=300
+	wheel_radius=0.4
+	max_engine_rpm=5500
+	num_gears=5
+	wheel_friction=3.5,3.5,3.5,3.5
+	wheel_mass=50
+	max_steering_angle=45;
+	RPY_factor=0,.5,.35
+	friction_equalizer=0
+#end

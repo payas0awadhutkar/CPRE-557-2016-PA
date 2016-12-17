@@ -1,0 +1,42 @@
+#body
+	pos=0,0,-.2
+	rot=1,0,0:90
+	scale=.95,.90,1
+#end
+
+#wheel1
+	pos=-0.17,0,0
+	rot=0,0,0:90
+	scale=1,1.1,1.1
+#end
+
+#wheel2
+	pos=-0.17,0,0
+	rot=0,0,0:90
+	scale=1,1.1,1.1
+#end
+
+#wheel3
+	pos=.1,0,0
+	rot=0,0,0:90
+	scale=1,1.1,1.1
+#end
+
+#wheel4
+	pos=.1,0,0
+	rot=0,0,0:90
+	scale=1,1.1,1.1
+#end
+
+#info
+	name=Alpine
+	topspeed=350
+	wheel_radius=0.4
+	max_engine_rpm=5500
+	num_gears=5
+	wheel_friction=4.5,4.5,5.5,5.5
+	wheel_mass=50
+	max_steering_angle=45;
+	RPY_factor=0,.5,.35
+	friction_equalizer=0
+#end
